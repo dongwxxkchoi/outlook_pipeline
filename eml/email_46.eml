@@ -1,0 +1,91 @@
+MIME-Version: 1.0
+Subject: MATLAB and Simulink Release 2023b
+From: mathworks@go.mathworks.com
+To: =?utf-8?b?7LWc64+Z7Jqx?=
+Date: Sun, 24 Sep 2023 02:15:16 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+New features in MATLAB and Simulink, two new products, and updates to many ot=
+her products.=20
+=EB=B3=B8 =EC=9D=B4=EB=A9=94=EC=9D=BC=EC=9D=84 =EC=9B=B9=ED=8E=98=EC=9D=B4=EC=
+=A7=80=EC=97=90=EC=84=9C =EB=B3=B4=EA=B8=B0 <http://app.go.mathworks.com/e/es=
+?s=3D646005169&e=3D16674713&elqTrackId=3D9cb70acbd9ff42b296ce40f740a71305&elq=
+=3D7f2f1829db8441c495881e4613e84c6d&elqaid=3D51075&elqat=3D1&elqcst=3D272&elq=
+csid=3D8873> 	=20
+ <http://images.go.mathworks.com/EloquaImages/clients/TheMathworksInc/{85ad3d=
+69-110b-4191-b6fc-8e42f9998767}_im_thumb_mw-logo-transparent.png> =09
+=09
+ <http://images.go.mathworks.com/EloquaImages/clients/TheMathworksInc/%7B8f77=
+3a78-b8fc-436d-af90-7d8612045954%7D_im_thumb_release-R2023b.png>=20
+
+Dear Dongwook Choi,
+
+Release 2023b is now available for download. The release includes updates to =
+MATLAB, Simulink, and many other products.
+
+
+Download now <https://www.mathworks.com/downloads/web_downloads/latest_releas=
+e?s_v1=3D51075&elqem=3D4187250_EM_EN_DIR_23-09_R2023b-RELEASE-GENERAL&elqTrac=
+kId=3D0f083d1f6da642e2af0d2aff43ca6d94&elq=3D7f2f1829db8441c495881e4613e84c6d=
+&elqaid=3D51075&elqat=3D1&elqCampaignId=3D19185> 	=20
+
+You are receiving this notification because your MathWorks Account is linked =
+to an active software license, making you eligible for new product capabiliti=
+es and bug fixes delivered through general releases twice per year. Download =
+your products from the License Center <http://app.go.mathworks.com/e/er?s_v1=
+=3D51075&elqem=3D4187250_EM_EN_DIR_23-09_R2023b-RELEASE-GENERAL&s=3D646005169=
+&lid=3D2136&elqTrackId=3D6d1ab6fd7361449bb4f6dfb5f58dcee5&elq=3D7f2f1829db844=
+1c495881e4613e84c6d&elqaid=3D51075&elqat=3D1> .
+
+R2023b includes two new products:=20
+
+Polyspace Test	=20
+Develop, manage, and execute tests for C and C++ code in embedded systems	=20
+=09
+Simulink Fault Analyzer	=20
+Model faults and analyze effects	=20
+=09
+
+For more information about R2023b, see the release highlights and videos <htt=
+ps://www.mathworks.com/products/new_products/latest_features.html?s_v1=3D5107=
+5&elqem=3D4187250_EM_EN_DIR_23-09_R2023b-RELEASE-GENERAL&elqTrackId=3Dd29b2e8=
+4bb93457898d022c24c6fd42c&elq=3D7f2f1829db8441c495881e4613e84c6d&elqaid=3D510=
+75&elqat=3D1&elqCampaignId=3D19185>  and release notes <http://app.go.mathwor=
+ks.com/e/er?s_v1=3D51075&elqem=3D4187250_EM_EN_DIR_23-09_R2023b-RELEASE-GENER=
+AL&s=3D646005169&lid=3D13979&elqTrackId=3D89b511fc66af4abc9c042e1613b279c5&el=
+q=3D7f2f1829db8441c495881e4613e84c6d&elqaid=3D51075&elqat=3D1> .
+
+Sincerely,
+MathWorks Customer Service Team
+mathworks.com/contact <https://www.mathworks.com/support/contact_us.html?s_v1=
+=3D51075&elqem=3D4187250_EM_EN_DIR_23-09_R2023b-RELEASE-GENERAL&elqTrackId=3D=
+bccf589fd7194637810f95c867073f47&elq=3D7f2f1829db8441c495881e4613e84c6d&elqai=
+d=3D51075&elqat=3D1&elqCampaignId=3D19185> =20
+=C2=A9 2023 The MathWorks, Inc.
+MATLAB and Simulink are registered trademarks of The MathWorks, Inc. See a li=
+st of additional trademarks <https://kr.mathworks.com/company/aboutus/policie=
+s_statements/trademarks.html?s_v1=3D51075&elqem=3D4187250_EM_EN_DIR_23-09_R20=
+23b-RELEASE-GENERAL&elqTrackId=3D5b0706ae5340416ea0accc5845c28f84&elq=3D7f2f1=
+829db8441c495881e4613e84c6d&elqaid=3D51075&elqat=3D1&elqCampaignId=3D19185&el=
+qcst=3D272&elqcsid=3D8906> .
+Other product or brand names may be trademarks or registered trademarks of th=
+eir respective holders.
+
+=EA=B5=AC=EB=8F=85=EC=A4=91=EC=9D=B8 =EC=9D=B4=EB=A9=94=EC=9D=BC =EC=A3=BC=EC=
+=86=8C dwchoi0610@cau.ac.kr=20
+
+=EB=A7=A4=EC=8A=A4=EC=9B=8D=EC=8A=A4=EC=BD=94=EB=A6=AC=EC=95=84(=EC=9C=A0) <h=
+ttps://kr.mathworks.com/?s_v1=3D51075&elqem=3D4187250_EM_EN_DIR_23-09_R2023b-=
+RELEASE-GENERAL&elqTrackId=3Dd6f2a25686bb4600bbfcd980e269cd31&elq=3D7f2f1829d=
+b8441c495881e4613e84c6d&elqaid=3D51075&elqat=3D1&elqCampaignId=3D19185&elqcst=
+=3D272&elqcsid=3D8906> 06164
+=EC=84=9C=EC=9A=B8=EC=8B=9C =EA=B0=95=EB=82=A8=EA=B5=AC =ED=85=8C=ED=97=A4=EB=
+=9E=80=EB=A1=9C 521
+=ED=8C=8C=EB=A5=B4=EB=82=98=EC=8A=A4=ED=83=80=EC=9B=8C 14=EC=B8=B5
+
+E-mail : marketing_korea@mathworks.com <mailto:marketing_korea@mathworks.com>=
+=20
+=EC=A0=84=ED=99=94 : 02-6006-5100 / =ED=8C=A9=EC=8A=A4 : 02-6006-5110	=20
+ <https://s646005169.t.en25.com/e/FooterImages/FooterImage1?elq=3D7f2f1829db8=
+441c495881e4613e84c6d&siteid=3D646005169>=20

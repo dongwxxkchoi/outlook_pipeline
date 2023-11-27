@@ -1,0 +1,24 @@
+MIME-Version: 1.0
+Subject: [GitHub] A previously authorized third-party OAuth application has
+ been granted additional scopes
+From: noreply@github.com
+To: dongwook
+Date: Thu, 26 Oct 2023 18:47:55 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hey dongwxxkchoi!
+
+Previously, a third-party OAuth application (Streamlit) had admin:repo_hook, =
+codespace, public_repo, read:org, and user:email scopes. It was recently gran=
+ted an additional scope (repo). Visit https://github.com/settings/connections=
+/applications/06f8c147652718282386 for more information.
+
+To see this and other security events for your account, visit https://github.=
+com/settings/security-log
+
+If you run into problems, please contact support by visiting https://github.c=
+om/contact
+
+Thanks,
+The GitHub Team
