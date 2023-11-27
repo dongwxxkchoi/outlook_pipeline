@@ -7,7 +7,8 @@ from langchain.schema.document import Document
 
 loader = UnstructuredEmailLoader(
     'eml/email_162.eml',
-    process_attachments=True,)
+    process_attachments=True
+)
 
 data = loader.load()
 print(data)
